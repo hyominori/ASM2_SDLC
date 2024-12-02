@@ -1,0 +1,32 @@
+body {
+    width: 70%;
+    height: auto;
+    justify-self: center;
+    margin: 30px 20px;
+    padding: 20px 20px;
+    background-image: url("img/orange2.jpg");
+    background-size: cover;
+}
+
+header {
+    color: Black;
+    padding: 20px;
+    text-align: center;
+}
+
+.logout-button {
+    width: fit-content;
+    padding: 2px 5px 2px 5px;
+    border-radius: 20px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.logout-button p{
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 1.2rem;
+    background-color: black;
+    color: rgb(255, 64, 0)  ;
+    width: fit-content;
+}
